@@ -15,7 +15,7 @@ const siteConfig = {
   title: "React Native for Windows",
   tagline: "Build native Windows apps with Javascript and React",
   url: "https://microsoft.github.io",
-  baseUrl: "/react-native-windows/",
+  baseUrl: "/react-native-windows/v1/",
   repoUrl,
   defaultVersionShown,
   // Used for publishing and more
@@ -69,11 +69,11 @@ const siteConfig = {
     "https://platform.twitter.com/widgets.js",
     "https://buttons.github.io/buttons.js",
     "https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js",
-    "/react-native-windows/js/code-block-buttons.js",
-    "/react-native-windows/js/nav-buttons.js"
+    "/react-native-windows/v1/js/code-block-buttons.js",
+    "/react-native-windows/v1/js/nav-buttons.js"
   ],
 
-  stylesheets: ["/react-native-windows/css/code-block-buttons.css"],
+  stylesheets: ["/react-native-windows/v1/css/code-block-buttons.css"],
 
   // On page navigation for the current documentation page.
   onPageNav: "separate",
